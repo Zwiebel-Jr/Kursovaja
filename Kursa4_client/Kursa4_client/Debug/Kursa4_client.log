@@ -1,0 +1,24 @@
+﻿  Client.cpp
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(147,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(163,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(254,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(410,15): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(581,15): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1243,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1332,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1368,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1403,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1439,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1474,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1543,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1572,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1708,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1712,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1787,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1791,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1908,17): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(2073,16): warning C4101: del_name: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(839): warning C4715: HeadMenu: значение возвращается не при всех путях выполнения
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1118): warning C4715: UserMenu: значение возвращается не при всех путях выполнения
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1029): warning C4715: AdminMenu: значение возвращается не при всех путях выполнения
+  Kursa4_client.vcxproj -> C:\Users\Asus\source\repos\Kursa4_client\Debug\Kursa4_client.exe

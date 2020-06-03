@@ -1,0 +1,28 @@
+﻿  Client.cpp
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(153,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(169,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(268,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(424,15): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(595,15): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1275,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1364,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1400,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1435,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1471,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1506,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1576,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1605,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1755,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1759,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1834,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1838,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1955,17): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(2120,16): warning C4101: del_name: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(855): warning C4715: HeadMenu: значение возвращается не при всех путях выполнения
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1150): warning C4715: UserMenu: значение возвращается не при всех путях выполнения
+C:\Users\Asus\source\repos\Kursa4_client\Kursa4_client\Client.cpp(1045): warning C4715: AdminMenu: значение возвращается не при всех путях выполнения
+  All 514 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Kursa4_client.vcxproj -> C:\Users\Asus\source\repos\Kursa4_client\Release\Kursa4_client.exe

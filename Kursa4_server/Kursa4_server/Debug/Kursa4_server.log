@@ -1,0 +1,14 @@
+﻿  Server.cpp
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(76,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(92,8): warning C4101: str: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(194,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(198,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(289,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(524,17): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(593,16): warning C4101: del_name: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(593,7): warning C4101: del: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(723,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(727,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Server.cpp(123,17): warning C4101: pas_size: неиспользованная локальная переменная
+C:\Users\Asus\source\repos\Kursa4_server\Kursa4_server\Employeer.h(367): warning C4715: Employee::authorization_ad: значение возвращается не при всех путях выполнения
+  Kursa4_server.vcxproj -> C:\Users\Asus\source\repos\Kursa4_server\Debug\Kursa4_server.exe
